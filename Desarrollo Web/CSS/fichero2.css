@@ -1,0 +1,27 @@
+/* Estilos para segundo ejemplo*/
+
+body{
+   background-color: rgb(16, 109, 16);
+   /* background-image: url(fondo1.jpg);
+    background-repeat: no-repeat; */
+}
+div{
+    border-color: brown;
+    border-width: 2px;
+    border-style: groove;
+    background: rgb(105, 133, 5);
+
+}
+span{
+    border-color: red;
+    border-width: 15px;
+    border-style: dotted;
+    background: rebeccapurple;
+}
+p{
+    color: rgb(1, 19, 36);
+}
+
+div p{
+    color: azure;
+}
